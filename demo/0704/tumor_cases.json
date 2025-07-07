@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5719110/5719110_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5719110/5719110_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5719110/5719110_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5719110/5719110_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5719110/5719110_label.nii.gz"
+    ]
+  },
+  {
+    "id": 2,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7933738/7933738_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7933738/7933738_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7933738/7933738_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7933738/7933738_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7933738/7933738_label.nii.gz"
+    ]
+  },
+  {
+    "id": 3,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/4015314/4015314_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/4015314/4015314_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/4015314/4015314_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/4015314/4015314_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/4015314/4015314_label.nii.gz"
+    ]
+  },
+  {
+    "id": 4,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8693308/8693308_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8693308/8693308_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8693308/8693308_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8693308/8693308_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8693308/8693308_label.nii.gz"
+    ]
+  },
+  {
+    "id": 5,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5249885/5249885_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5249885/5249885_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5249885/5249885_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5249885/5249885_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5249885/5249885_label.nii.gz"
+    ]
+  },
+  {
+    "id": 6,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5868333/5868333_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5868333/5868333_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5868333/5868333_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5868333/5868333_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5868333/5868333_label.nii.gz"
+    ]
+  },
+  {
+    "id": 7,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2087866/2087866_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2087866/2087866_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2087866/2087866_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2087866/2087866_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2087866/2087866_label.nii.gz"
+    ]
+  },
+  {
+    "id": 8,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10808912/10808912_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10808912/10808912_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10808912/10808912_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10808912/10808912_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10808912/10808912_label.nii.gz"
+    ]
+  },
+  {
+    "id": 9,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10870274/10870274_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10870274/10870274_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10870274/10870274_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10870274/10870274_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10870274/10870274_label.nii.gz"
+    ]
+  },
+  {
+    "id": 10,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8554182/8554182_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8554182/8554182_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8554182/8554182_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8554182/8554182_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8554182/8554182_label.nii.gz"
+    ]
+  },
+  {
+    "id": 11,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8820008/8820008_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8820008/8820008_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8820008/8820008_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8820008/8820008_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8820008/8820008_label.nii.gz"
+    ]
+  },
+  {
+    "id": 12,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1778843/1778843_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1778843/1778843_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1778843/1778843_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1778843/1778843_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1778843/1778843_label.nii.gz"
+    ]
+  },
+  {
+    "id": 13,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10113067/10113067_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10113067/10113067_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10113067/10113067_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10113067/10113067_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10113067/10113067_label.nii.gz"
+    ]
+  },
+  {
+    "id": 14,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2937634/2937634_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2937634/2937634_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2937634/2937634_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2937634/2937634_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/2937634/2937634_label.nii.gz"
+    ]
+  },
+  {
+    "id": 15,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1326521/1326521_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1326521/1326521_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1326521/1326521_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1326521/1326521_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1326521/1326521_label.nii.gz"
+    ]
+  },
+  {
+    "id": 16,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8072260/8072260_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8072260/8072260_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8072260/8072260_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8072260/8072260_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8072260/8072260_label.nii.gz"
+    ]
+  },
+  {
+    "id": 17,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7716992/7716992_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7716992/7716992_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7716992/7716992_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7716992/7716992_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7716992/7716992_label.nii.gz"
+    ]
+  },
+  {
+    "id": 18,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/3715913/3715913_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/3715913/3715913_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/3715913/3715913_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/3715913/3715913_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/3715913/3715913_label.nii.gz"
+    ]
+  },
+  {
+    "id": 19,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10222310/10222310_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10222310/10222310_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10222310/10222310_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10222310/10222310_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10222310/10222310_label.nii.gz"
+    ]
+  },
+  {
+    "id": 20,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10133172/10133172_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10133172/10133172_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10133172/10133172_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10133172/10133172_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10133172/10133172_label.nii.gz"
+    ]
+  },
+  {
+    "id": 21,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1443083/1443083_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1443083/1443083_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1443083/1443083_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1443083/1443083_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1443083/1443083_label.nii.gz"
+    ]
+  },
+  {
+    "id": 22,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1927556/1927556_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1927556/1927556_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1927556/1927556_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1927556/1927556_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1927556/1927556_label.nii.gz"
+    ]
+  },
+  {
+    "id": 23,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10514301/10514301_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10514301/10514301_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10514301/10514301_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10514301/10514301_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10514301/10514301_label.nii.gz"
+    ]
+  },
+  {
+    "id": 24,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7970660/7970660_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7970660/7970660_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7970660/7970660_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7970660/7970660_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7970660/7970660_label.nii.gz"
+    ]
+  },
+  {
+    "id": 25,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10225837/10225837_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10225837/10225837_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10225837/10225837_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10225837/10225837_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10225837/10225837_label.nii.gz"
+    ]
+  },
+  {
+    "id": 26,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10892354/10892354_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10892354/10892354_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10892354/10892354_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10892354/10892354_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10892354/10892354_label.nii.gz"
+    ]
+  },
+  {
+    "id": 27,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8409358/8409358_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8409358/8409358_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8409358/8409358_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8409358/8409358_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8409358/8409358_label.nii.gz"
+    ]
+  },
+  {
+    "id": 28,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1371892/1371892_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1371892/1371892_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1371892/1371892_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1371892/1371892_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1371892/1371892_label.nii.gz"
+    ]
+  },
+  {
+    "id": 29,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8314778/8314778_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8314778/8314778_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8314778/8314778_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8314778/8314778_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8314778/8314778_label.nii.gz"
+    ]
+  },
+  {
+    "id": 30,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10411111/10411111_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10411111/10411111_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10411111/10411111_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10411111/10411111_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10411111/10411111_label.nii.gz"
+    ]
+  },
+  {
+    "id": 31,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7707348/7707348_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7707348/7707348_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7707348/7707348_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7707348/7707348_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7707348/7707348_label.nii.gz"
+    ]
+  },
+  {
+    "id": 32,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10417613/10417613_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10417613/10417613_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10417613/10417613_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10417613/10417613_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10417613/10417613_label.nii.gz"
+    ]
+  },
+  {
+    "id": 33,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8513421/8513421_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8513421/8513421_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8513421/8513421_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8513421/8513421_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8513421/8513421_label.nii.gz"
+    ]
+  },
+  {
+    "id": 34,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8234881/8234881_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8234881/8234881_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8234881/8234881_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8234881/8234881_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8234881/8234881_label.nii.gz"
+    ]
+  },
+  {
+    "id": 35,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8841826/8841826_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8841826/8841826_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8841826/8841826_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8841826/8841826_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8841826/8841826_label.nii.gz"
+    ]
+  },
+  {
+    "id": 36,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10746871/10746871_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10746871/10746871_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10746871/10746871_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10746871/10746871_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10746871/10746871_label.nii.gz"
+    ]
+  },
+  {
+    "id": 37,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1473946/1473946_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1473946/1473946_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1473946/1473946_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1473946/1473946_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/1473946/1473946_label.nii.gz"
+    ]
+  },
+  {
+    "id": 38,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8844070/8844070_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8844070/8844070_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8844070/8844070_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8844070/8844070_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8844070/8844070_label.nii.gz"
+    ]
+  },
+  {
+    "id": 39,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5121900/5121900_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5121900/5121900_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5121900/5121900_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5121900/5121900_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5121900/5121900_label.nii.gz"
+    ]
+  },
+  {
+    "id": 40,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8297121/8297121_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8297121/8297121_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8297121/8297121_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8297121/8297121_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8297121/8297121_label.nii.gz"
+    ]
+  },
+  {
+    "id": 41,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5199303/5199303_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5199303/5199303_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5199303/5199303_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5199303/5199303_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5199303/5199303_label.nii.gz"
+    ]
+  },
+  {
+    "id": 42,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8240882/8240882_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8240882/8240882_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8240882/8240882_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8240882/8240882_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/8240882/8240882_label.nii.gz"
+    ]
+  },
+  {
+    "id": 43,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5164102/5164102_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5164102/5164102_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5164102/5164102_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5164102/5164102_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/5164102/5164102_label.nii.gz"
+    ]
+  },
+  {
+    "id": 44,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10644937/10644937_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10644937/10644937_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10644937/10644937_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10644937/10644937_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/10644937/10644937_label.nii.gz"
+    ]
+  },
+  {
+    "id": 45,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Glioma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7030453/7030453_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7030453/7030453_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7030453/7030453_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7030453/7030453_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Glioma/7030453/7030453_label.nii.gz"
+    ]
+  },
+  {
+    "id": 46,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8163070/8163070_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8163070/8163070_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8163070/8163070_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8163070/8163070_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8163070/8163070_label.nii.gz"
+    ]
+  },
+  {
+    "id": 47,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11228034/11228034_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11228034/11228034_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11228034/11228034_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11228034/11228034_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11228034/11228034_label.nii.gz"
+    ]
+  },
+  {
+    "id": 48,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3582327/3582327_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3582327/3582327_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3582327/3582327_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3582327/3582327_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3582327/3582327_label.nii.gz"
+    ]
+  },
+  {
+    "id": 49,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/2178486/2178486_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/2178486/2178486_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/2178486/2178486_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/2178486/2178486_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/2178486/2178486_label.nii.gz"
+    ]
+  },
+  {
+    "id": 50,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/7991540/7991540_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/7991540/7991540_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/7991540/7991540_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/7991540/7991540_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/7991540/7991540_label.nii.gz"
+    ]
+  },
+  {
+    "id": 51,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11242524/11242524_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11242524/11242524_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11242524/11242524_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11242524/11242524_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11242524/11242524_label.nii.gz"
+    ]
+  },
+  {
+    "id": 52,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8196114/8196114_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8196114/8196114_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8196114/8196114_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8196114/8196114_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8196114/8196114_label.nii.gz"
+    ]
+  },
+  {
+    "id": 53,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11183322/11183322_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11183322/11183322_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11183322/11183322_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11183322/11183322_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11183322/11183322_label.nii.gz"
+    ]
+  },
+  {
+    "id": 54,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3675028/3675028_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3675028/3675028_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3675028/3675028_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3675028/3675028_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3675028/3675028_label.nii.gz"
+    ]
+  },
+  {
+    "id": 55,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3857727/3857727_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3857727/3857727_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3857727/3857727_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3857727/3857727_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/3857727/3857727_label.nii.gz"
+    ]
+  },
+  {
+    "id": 56,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20046393/20046393_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20046393/20046393_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20046393/20046393_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20046393/20046393_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20046393/20046393_label.nii.gz"
+    ]
+  },
+  {
+    "id": 57,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8696015/8696015_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8696015/8696015_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8696015/8696015_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8696015/8696015_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8696015/8696015_label.nii.gz"
+    ]
+  },
+  {
+    "id": 58,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8234913/8234913_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8234913/8234913_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8234913/8234913_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8234913/8234913_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8234913/8234913_label.nii.gz"
+    ]
+  },
+  {
+    "id": 59,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11215971/11215971_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11215971/11215971_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11215971/11215971_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11215971/11215971_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11215971/11215971_label.nii.gz"
+    ]
+  },
+  {
+    "id": 60,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11241879/11241879_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11241879/11241879_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11241879/11241879_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11241879/11241879_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11241879/11241879_label.nii.gz"
+    ]
+  },
+  {
+    "id": 61,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8088975/8088975_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8088975/8088975_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8088975/8088975_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8088975/8088975_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8088975/8088975_label.nii.gz"
+    ]
+  },
+  {
+    "id": 62,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8171070/8171070_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8171070/8171070_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8171070/8171070_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8171070/8171070_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8171070/8171070_label.nii.gz"
+    ]
+  },
+  {
+    "id": 63,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/5729223/5729223_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/5729223/5729223_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/5729223/5729223_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/5729223/5729223_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/5729223/5729223_label.nii.gz"
+    ]
+  },
+  {
+    "id": 64,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8115411/8115411_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8115411/8115411_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8115411/8115411_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8115411/8115411_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8115411/8115411_label.nii.gz"
+    ]
+  },
+  {
+    "id": 65,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11185119/11185119_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11185119/11185119_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11185119/11185119_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11185119/11185119_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11185119/11185119_label.nii.gz"
+    ]
+  },
+  {
+    "id": 66,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8677435/8677435_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8677435/8677435_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8677435/8677435_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8677435/8677435_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8677435/8677435_label.nii.gz"
+    ]
+  },
+  {
+    "id": 67,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8239497/8239497_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8239497/8239497_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8239497/8239497_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8239497/8239497_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8239497/8239497_label.nii.gz"
+    ]
+  },
+  {
+    "id": 68,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8155873/8155873_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8155873/8155873_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8155873/8155873_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8155873/8155873_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8155873/8155873_label.nii.gz"
+    ]
+  },
+  {
+    "id": 69,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8508984/8508984_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8508984/8508984_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8508984/8508984_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8508984/8508984_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8508984/8508984_label.nii.gz"
+    ]
+  },
+  {
+    "id": 70,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8187334/8187334_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8187334/8187334_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8187334/8187334_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8187334/8187334_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8187334/8187334_label.nii.gz"
+    ]
+  },
+  {
+    "id": 71,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/9081096/9081096_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/9081096/9081096_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/9081096/9081096_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/9081096/9081096_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/9081096/9081096_label.nii.gz"
+    ]
+  },
+  {
+    "id": 72,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20098614/20098614_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20098614/20098614_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20098614/20098614_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20098614/20098614_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/20098614/20098614_label.nii.gz"
+    ]
+  },
+  {
+    "id": 73,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8401525/8401525_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8401525/8401525_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8401525/8401525_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8401525/8401525_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8401525/8401525_label.nii.gz"
+    ]
+  },
+  {
+    "id": 74,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8712326/8712326_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8712326/8712326_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8712326/8712326_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8712326/8712326_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8712326/8712326_label.nii.gz"
+    ]
+  },
+  {
+    "id": 75,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11148161/11148161_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11148161/11148161_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11148161/11148161_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11148161/11148161_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11148161/11148161_label.nii.gz"
+    ]
+  },
+  {
+    "id": 76,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8586752/8586752_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8586752/8586752_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8586752/8586752_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8586752/8586752_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8586752/8586752_label.nii.gz"
+    ]
+  },
+  {
+    "id": 77,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6153706/6153706_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6153706/6153706_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6153706/6153706_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6153706/6153706_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6153706/6153706_label.nii.gz"
+    ]
+  },
+  {
+    "id": 78,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4385013/4385013_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4385013/4385013_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4385013/4385013_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4385013/4385013_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4385013/4385013_label.nii.gz"
+    ]
+  },
+  {
+    "id": 79,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11165755/11165755_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11165755/11165755_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11165755/11165755_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11165755/11165755_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11165755/11165755_label.nii.gz"
+    ]
+  },
+  {
+    "id": 80,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6952187/6952187_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6952187/6952187_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6952187/6952187_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6952187/6952187_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6952187/6952187_label.nii.gz"
+    ]
+  },
+  {
+    "id": 81,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8623683/8623683_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8623683/8623683_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8623683/8623683_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8623683/8623683_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8623683/8623683_label.nii.gz"
+    ]
+  },
+  {
+    "id": 82,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6966531/6966531_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6966531/6966531_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6966531/6966531_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6966531/6966531_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/6966531/6966531_label.nii.gz"
+    ]
+  },
+  {
+    "id": 83,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11190651/11190651_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11190651/11190651_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11190651/11190651_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11190651/11190651_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/11190651/11190651_label.nii.gz"
+    ]
+  },
+  {
+    "id": 84,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8640072/8640072_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8640072/8640072_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8640072/8640072_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8640072/8640072_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8640072/8640072_label.nii.gz"
+    ]
+  },
+  {
+    "id": 85,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8603855/8603855_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8603855/8603855_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8603855/8603855_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8603855/8603855_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8603855/8603855_label.nii.gz"
+    ]
+  },
+  {
+    "id": 86,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8633053/8633053_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8633053/8633053_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8633053/8633053_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8633053/8633053_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8633053/8633053_label.nii.gz"
+    ]
+  },
+  {
+    "id": 87,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4234324/4234324_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4234324/4234324_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4234324/4234324_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4234324/4234324_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/4234324/4234324_label.nii.gz"
+    ]
+  },
+  {
+    "id": 88,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8425695/8425695_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8425695/8425695_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8425695/8425695_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8425695/8425695_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8425695/8425695_label.nii.gz"
+    ]
+  },
+  {
+    "id": 89,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8197124/8197124_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8197124/8197124_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8197124/8197124_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8197124/8197124_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8197124/8197124_label.nii.gz"
+    ]
+  },
+  {
+    "id": 90,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Lymphoma",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8609912/8609912_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8609912/8609912_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8609912/8609912_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8609912/8609912_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Lymphoma/8609912/8609912_label.nii.gz"
+    ]
+  },
+  {
+    "id": 91,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7467587/7467587_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7467587/7467587_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7467587/7467587_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7467587/7467587_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7467587/7467587_label.nii.gz"
+    ]
+  },
+  {
+    "id": 92,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7884243/7884243_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7884243/7884243_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7884243/7884243_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7884243/7884243_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7884243/7884243_label.nii.gz"
+    ]
+  },
+  {
+    "id": 93,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7860473/7860473_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7860473/7860473_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7860473/7860473_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7860473/7860473_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7860473/7860473_label.nii.gz"
+    ]
+  },
+  {
+    "id": 94,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7722538/7722538_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7722538/7722538_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7722538/7722538_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7722538/7722538_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7722538/7722538_label.nii.gz"
+    ]
+  },
+  {
+    "id": 95,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6949503/6949503_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6949503/6949503_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6949503/6949503_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6949503/6949503_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6949503/6949503_label.nii.gz"
+    ]
+  },
+  {
+    "id": 96,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7244642/7244642_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7244642/7244642_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7244642/7244642_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7244642/7244642_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7244642/7244642_label.nii.gz"
+    ]
+  },
+  {
+    "id": 97,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7636875/7636875_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7636875/7636875_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7636875/7636875_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7636875/7636875_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7636875/7636875_label.nii.gz"
+    ]
+  },
+  {
+    "id": 98,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7470445/7470445_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7470445/7470445_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7470445/7470445_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7470445/7470445_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7470445/7470445_label.nii.gz"
+    ]
+  },
+  {
+    "id": 99,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7962797/7962797_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7962797/7962797_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7962797/7962797_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7962797/7962797_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7962797/7962797_label.nii.gz"
+    ]
+  },
+  {
+    "id": 100,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7104108/7104108_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7104108/7104108_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7104108/7104108_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7104108/7104108_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7104108/7104108_label.nii.gz"
+    ]
+  },
+  {
+    "id": 101,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7909647/7909647_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7909647/7909647_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7909647/7909647_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7909647/7909647_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7909647/7909647_label.nii.gz"
+    ]
+  },
+  {
+    "id": 102,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7383225/7383225_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7383225/7383225_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7383225/7383225_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7383225/7383225_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7383225/7383225_label.nii.gz"
+    ]
+  },
+  {
+    "id": 103,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7488025/7488025_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7488025/7488025_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7488025/7488025_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7488025/7488025_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7488025/7488025_label.nii.gz"
+    ]
+  },
+  {
+    "id": 104,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7468363/7468363_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7468363/7468363_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7468363/7468363_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7468363/7468363_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7468363/7468363_label.nii.gz"
+    ]
+  },
+  {
+    "id": 105,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7701021/7701021_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7701021/7701021_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7701021/7701021_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7701021/7701021_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7701021/7701021_label.nii.gz"
+    ]
+  },
+  {
+    "id": 106,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7602938/7602938_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7602938/7602938_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7602938/7602938_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7602938/7602938_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7602938/7602938_label.nii.gz"
+    ]
+  },
+  {
+    "id": 107,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7831351/7831351_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7831351/7831351_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7831351/7831351_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7831351/7831351_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7831351/7831351_label.nii.gz"
+    ]
+  },
+  {
+    "id": 108,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7958065/7958065_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7958065/7958065_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7958065/7958065_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7958065/7958065_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7958065/7958065_label.nii.gz"
+    ]
+  },
+  {
+    "id": 109,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7591906/7591906_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7591906/7591906_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7591906/7591906_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7591906/7591906_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7591906/7591906_label.nii.gz"
+    ]
+  },
+  {
+    "id": 110,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7911885/7911885_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7911885/7911885_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7911885/7911885_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7911885/7911885_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7911885/7911885_label.nii.gz"
+    ]
+  },
+  {
+    "id": 111,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7734707/7734707_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7734707/7734707_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7734707/7734707_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7734707/7734707_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7734707/7734707_label.nii.gz"
+    ]
+  },
+  {
+    "id": 112,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6932064/6932064_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6932064/6932064_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6932064/6932064_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6932064/6932064_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6932064/6932064_label.nii.gz"
+    ]
+  },
+  {
+    "id": 113,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7149767/7149767_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7149767/7149767_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7149767/7149767_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7149767/7149767_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7149767/7149767_label.nii.gz"
+    ]
+  },
+  {
+    "id": 114,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7749203/7749203_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7749203/7749203_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7749203/7749203_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7749203/7749203_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7749203/7749203_label.nii.gz"
+    ]
+  },
+  {
+    "id": 115,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7401305/7401305_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7401305/7401305_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7401305/7401305_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7401305/7401305_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7401305/7401305_label.nii.gz"
+    ]
+  },
+  {
+    "id": 116,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457041/7457041_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457041/7457041_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457041/7457041_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457041/7457041_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457041/7457041_label.nii.gz"
+    ]
+  },
+  {
+    "id": 117,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7544877/7544877_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7544877/7544877_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7544877/7544877_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7544877/7544877_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7544877/7544877_label.nii.gz"
+    ]
+  },
+  {
+    "id": 118,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7417907/7417907_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7417907/7417907_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7417907/7417907_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7417907/7417907_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7417907/7417907_label.nii.gz"
+    ]
+  },
+  {
+    "id": 119,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7687115/7687115_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7687115/7687115_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7687115/7687115_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7687115/7687115_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7687115/7687115_label.nii.gz"
+    ]
+  },
+  {
+    "id": 120,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7441763/7441763_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7441763/7441763_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7441763/7441763_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7441763/7441763_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7441763/7441763_label.nii.gz"
+    ]
+  },
+  {
+    "id": 121,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7954604/7954604_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7954604/7954604_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7954604/7954604_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7954604/7954604_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7954604/7954604_label.nii.gz"
+    ]
+  },
+  {
+    "id": 122,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7209702/7209702_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7209702/7209702_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7209702/7209702_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7209702/7209702_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7209702/7209702_label.nii.gz"
+    ]
+  },
+  {
+    "id": 123,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7654611/7654611_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7654611/7654611_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7654611/7654611_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7654611/7654611_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7654611/7654611_label.nii.gz"
+    ]
+  },
+  {
+    "id": 124,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7623132/7623132_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7623132/7623132_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7623132/7623132_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7623132/7623132_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7623132/7623132_label.nii.gz"
+    ]
+  },
+  {
+    "id": 125,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7502997/7502997_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7502997/7502997_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7502997/7502997_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7502997/7502997_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7502997/7502997_label.nii.gz"
+    ]
+  },
+  {
+    "id": 126,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7525233/7525233_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7525233/7525233_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7525233/7525233_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7525233/7525233_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7525233/7525233_label.nii.gz"
+    ]
+  },
+  {
+    "id": 127,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7913022/7913022_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7913022/7913022_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7913022/7913022_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7913022/7913022_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7913022/7913022_label.nii.gz"
+    ]
+  },
+  {
+    "id": 128,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7615192/7615192_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7615192/7615192_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7615192/7615192_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7615192/7615192_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7615192/7615192_label.nii.gz"
+    ]
+  },
+  {
+    "id": 129,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457329/7457329_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457329/7457329_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457329/7457329_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457329/7457329_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7457329/7457329_label.nii.gz"
+    ]
+  },
+  {
+    "id": 130,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6856923/6856923_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6856923/6856923_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6856923/6856923_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6856923/6856923_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6856923/6856923_label.nii.gz"
+    ]
+  },
+  {
+    "id": 131,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7538179/7538179_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7538179/7538179_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7538179/7538179_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7538179/7538179_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7538179/7538179_label.nii.gz"
+    ]
+  },
+  {
+    "id": 132,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7582810/7582810_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7582810/7582810_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7582810/7582810_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7582810/7582810_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7582810/7582810_label.nii.gz"
+    ]
+  },
+  {
+    "id": 133,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7776327/7776327_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7776327/7776327_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7776327/7776327_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7776327/7776327_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7776327/7776327_label.nii.gz"
+    ]
+  },
+  {
+    "id": 134,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7940590/7940590_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7940590/7940590_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7940590/7940590_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7940590/7940590_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/7940590/7940590_label.nii.gz"
+    ]
+  },
+  {
+    "id": 135,
+    "USER": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?",
+    "GT": "Metastasis",
+    "image_path": [
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6537774/6537774_T1.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6537774/6537774_T2.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6537774/6537774_T1GD.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6537774/6537774_FLAIR.nii.gz",
+      "/home/hufsaim/VLM/VLM/data/TumorClassification/test/Metastasis/6537774/6537774_label.nii.gz"
+    ]
+  }
+]

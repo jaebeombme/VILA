@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "image": [
+      "TumorClassification/jpg/train/10223633/10223633_T1.jpg",
+      "TumorClassification/jpg/train/10223633/10223633_T2.jpg",
+      "TumorClassification/jpg/train/10223633/10223633_T1GD.jpg",
+      "TumorClassification/jpg/train/10223633/10223633_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": [
+      "TumorClassification/jpg/train/10823751/10823751_T1.jpg",
+      "TumorClassification/jpg/train/10823751/10823751_T2.jpg",
+      "TumorClassification/jpg/train/10823751/10823751_T1GD.jpg",
+      "TumorClassification/jpg/train/10823751/10823751_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": [
+      "TumorClassification/jpg/train/3411645/3411645_T1.jpg",
+      "TumorClassification/jpg/train/3411645/3411645_T2.jpg",
+      "TumorClassification/jpg/train/3411645/3411645_T1GD.jpg",
+      "TumorClassification/jpg/train/3411645/3411645_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": [
+      "TumorClassification/jpg/train/2600595/2600595_T1.jpg",
+      "TumorClassification/jpg/train/2600595/2600595_T2.jpg",
+      "TumorClassification/jpg/train/2600595/2600595_T1GD.jpg",
+      "TumorClassification/jpg/train/2600595/2600595_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of brain tumor is most likely depicted in this image: glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": [
+      "TumorClassification/jpg/train/5891433/5891433_T1.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_T2.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_T1GD.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": [
+      "TumorClassification/jpg/train/10205149/10205149_T1.jpg",
+      "TumorClassification/jpg/train/10205149/10205149_T2.jpg",
+      "TumorClassification/jpg/train/10205149/10205149_T1GD.jpg",
+      "TumorClassification/jpg/train/10205149/10205149_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": [
+      "TumorClassification/jpg/train/8371499/8371499_T1.jpg",
+      "TumorClassification/jpg/train/8371499/8371499_T2.jpg",
+      "TumorClassification/jpg/train/8371499/8371499_T1GD.jpg",
+      "TumorClassification/jpg/train/8371499/8371499_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": [
+      "TumorClassification/jpg/train/4029460/4029460_T1.jpg",
+      "TumorClassification/jpg/train/4029460/4029460_T2.jpg",
+      "TumorClassification/jpg/train/4029460/4029460_T1GD.jpg",
+      "TumorClassification/jpg/train/4029460/4029460_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": [
+      "TumorClassification/jpg/train/10466866/10466866_T1.jpg",
+      "TumorClassification/jpg/train/10466866/10466866_T2.jpg",
+      "TumorClassification/jpg/train/10466866/10466866_T1GD.jpg",
+      "TumorClassification/jpg/train/10466866/10466866_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": [
+      "TumorClassification/jpg/train/5457269/5457269_T1.jpg",
+      "TumorClassification/jpg/train/5457269/5457269_T2.jpg",
+      "TumorClassification/jpg/train/5457269/5457269_T1GD.jpg",
+      "TumorClassification/jpg/train/5457269/5457269_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": [
+      "TumorClassification/jpg/train/10361751/10361751_T1.jpg",
+      "TumorClassification/jpg/train/10361751/10361751_T2.jpg",
+      "TumorClassification/jpg/train/10361751/10361751_T1GD.jpg",
+      "TumorClassification/jpg/train/10361751/10361751_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": [
+      "TumorClassification/jpg/train/10367644/10367644_T1.jpg",
+      "TumorClassification/jpg/train/10367644/10367644_T2.jpg",
+      "TumorClassification/jpg/train/10367644/10367644_T1GD.jpg",
+      "TumorClassification/jpg/train/10367644/10367644_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": [
+      "TumorClassification/jpg/train/10296724/10296724_T1.jpg",
+      "TumorClassification/jpg/train/10296724/10296724_T2.jpg",
+      "TumorClassification/jpg/train/10296724/10296724_T1GD.jpg",
+      "TumorClassification/jpg/train/10296724/10296724_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Glioma"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": [
+      "TumorClassification/jpg/train/5891433/5891433_T1.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_T2.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_T1GD.jpg",
+      "TumorClassification/jpg/train/5891433/5891433_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": [
+      "TumorClassification/jpg/train/10471901/10471901_T1.jpg",
+      "TumorClassification/jpg/train/10471901/10471901_T2.jpg",
+      "TumorClassification/jpg/train/10471901/10471901_T1GD.jpg",
+      "TumorClassification/jpg/train/10471901/10471901_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of brain tumor is most likely depicted in this image: glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": [
+      "TumorClassification/jpg/train/2578259/2578259_T1.jpg",
+      "TumorClassification/jpg/train/2578259/2578259_T2.jpg",
+      "TumorClassification/jpg/train/2578259/2578259_T1GD.jpg",
+      "TumorClassification/jpg/train/2578259/2578259_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can the tumor in this scan be classified as a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image": [
+      "TumorClassification/jpg/train/10477282/10477282_T1.jpg",
+      "TumorClassification/jpg/train/10477282/10477282_T2.jpg",
+      "TumorClassification/jpg/train/10477282/10477282_T1GD.jpg",
+      "TumorClassification/jpg/train/10477282/10477282_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of brain tumor is most likely depicted in this image: glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image": [
+      "TumorClassification/jpg/train/10489063/10489063_T1.jpg",
+      "TumorClassification/jpg/train/10489063/10489063_T2.jpg",
+      "TumorClassification/jpg/train/10489063/10489063_T1GD.jpg",
+      "TumorClassification/jpg/train/10489063/10489063_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image": [
+      "TumorClassification/jpg/train/3316244/3316244_T1.jpg",
+      "TumorClassification/jpg/train/3316244/3316244_T2.jpg",
+      "TumorClassification/jpg/train/3316244/3316244_T1GD.jpg",
+      "TumorClassification/jpg/train/3316244/3316244_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the tumor shown in this image appear to be a glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Metastasis"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": [
+      "TumorClassification/jpg/train/10094413/10094413_T1.jpg",
+      "TumorClassification/jpg/train/10094413/10094413_T2.jpg",
+      "TumorClassification/jpg/train/10094413/10094413_T1GD.jpg",
+      "TumorClassification/jpg/train/10094413/10094413_FLAIR.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of brain tumor is most likely depicted in this image: glioma, lymphoma, or metastasis?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lymphoma"
+      }
+    ]
+  }
+]

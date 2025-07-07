@@ -1,0 +1,3827 @@
+[
+    {
+        "id": 1,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2528241/2528241_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 2,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2528241/2528241_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 3,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2528241/2528241_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 4,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2528241/2528241_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 5,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2309103/2309103_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 6,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2309103/2309103_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 7,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2309103/2309103_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 8,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2309103/2309103_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 9,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3108959/3108959_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 10,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3108959/3108959_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 11,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3108959/3108959_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 12,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3108959/3108959_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 13,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2532546/2532546_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 14,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2532546/2532546_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 15,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2532546/2532546_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 16,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2532546/2532546_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 17,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647197/2647197_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 18,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647197/2647197_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 19,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647197/2647197_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 20,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647197/2647197_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 21,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3021261/3021261_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 22,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3021261/3021261_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 23,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3021261/3021261_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 24,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3021261/3021261_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 25,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2530541/2530541_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 26,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2530541/2530541_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 27,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2530541/2530541_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 28,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2530541/2530541_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 29,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2520124/2520124_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 30,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2520124/2520124_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 31,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2520124/2520124_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 32,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2520124/2520124_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 33,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2411800/2411800_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 34,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2411800/2411800_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 35,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2411800/2411800_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 36,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2411800/2411800_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 37,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2659261/2659261_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 38,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2659261/2659261_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 39,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2659261/2659261_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 40,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2659261/2659261_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 41,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3011319/3011319_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 42,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3011319/3011319_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 43,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3011319/3011319_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 44,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3011319/3011319_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 45,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3135594/3135594_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 46,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3135594/3135594_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 47,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2273054/2273054_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 48,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2273054/2273054_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 49,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2273054/2273054_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 50,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2273054/2273054_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 51,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2571155/2571155_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 52,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2571155/2571155_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 53,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2571155/2571155_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 54,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2571155/2571155_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 55,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 56,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 57,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 58,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 59,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2389273/2389273_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 60,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2389273/2389273_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 61,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2389273/2389273_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 62,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2389273/2389273_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 63,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 64,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 65,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 66,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 67,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 68,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 69,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 70,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 71,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2509282/2509282_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 72,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2509282/2509282_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 73,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2509282/2509282_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 74,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2509282/2509282_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 75,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2479047/2479047_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 76,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2479047/2479047_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 77,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2479047/2479047_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 78,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2479047/2479047_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 79,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 80,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 81,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 82,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 83,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2218557/2218557_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 84,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2218557/2218557_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 85,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2218557/2218557_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 86,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2218557/2218557_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 87,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2815297/2815297_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 88,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2815297/2815297_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 89,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2815297/2815297_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 90,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2815297/2815297_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 91,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2967977/2967977_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 92,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2967977/2967977_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 93,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2967977/2967977_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 94,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2967977/2967977_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 95,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2595099/2595099_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 96,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2595099/2595099_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 97,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2595099/2595099_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 98,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2595099/2595099_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 99,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1996370/1996370_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 100,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1996370/1996370_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 101,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1996370/1996370_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 102,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1996370/1996370_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 103,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2174093/2174093_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 104,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2174093/2174093_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 105,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2984443/2984443_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 106,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2984443/2984443_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 107,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2984443/2984443_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 108,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2984443/2984443_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 109,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2544291/2544291_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 110,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2544291/2544291_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 111,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2544291/2544291_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 112,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2544291/2544291_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 113,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173505/3173505_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 114,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173505/3173505_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 115,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173505/3173505_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 116,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173505/3173505_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 117,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2826490/2826490_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 118,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2826490/2826490_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 119,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2826490/2826490_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 120,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2639805/2639805_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 121,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2639805/2639805_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 122,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2639805/2639805_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 123,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2639805/2639805_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 124,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2915686/2915686_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 125,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2915686/2915686_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 126,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2915686/2915686_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 127,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2915686/2915686_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 128,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 129,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 130,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 131,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 132,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3126818/3126818_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 133,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3126818/3126818_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 134,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3126818/3126818_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 135,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3126818/3126818_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 136,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 137,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 138,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 139,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 140,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173488/3173488_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 141,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173488/3173488_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 142,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173488/3173488_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 143,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3173488/3173488_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 144,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 145,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 146,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 147,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 148,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3023175/3023175_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 149,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3023175/3023175_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 150,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3023175/3023175_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 151,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3023175/3023175_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 152,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3175788/3175788_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 153,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3175788/3175788_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 154,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3175788/3175788_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 155,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3175788/3175788_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 156,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2258215/2258215_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 157,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2258215/2258215_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 158,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2258215/2258215_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 159,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2258215/2258215_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 160,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2293908/2293908_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 161,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2293908/2293908_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 162,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2293908/2293908_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 163,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2293908/2293908_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 164,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3172042/3172042_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 165,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3172042/3172042_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 166,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3172042/3172042_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 167,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 168,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 169,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 170,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 171,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2379524/2379524_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 172,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2379524/2379524_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 173,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2379524/2379524_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 174,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2379524/2379524_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 175,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2439173/2439173_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 176,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2439173/2439173_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 177,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2439173/2439173_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 178,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2439173/2439173_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 179,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2602057/2602057_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 180,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2602057/2602057_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 181,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2602057/2602057_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 182,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2602057/2602057_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 183,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2284805/2284805_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 184,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2284805/2284805_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 185,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2284805/2284805_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 186,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2284805/2284805_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 187,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3101860/3101860_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 188,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3101860/3101860_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 189,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3101860/3101860_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 190,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3101860/3101860_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 191,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647810/2647810_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 192,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647810/2647810_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 193,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647810/2647810_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 194,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2647810/2647810_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 195,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 196,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 197,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 198,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 199,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3002294/3002294_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 200,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3002294/3002294_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 201,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3002294/3002294_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 202,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2055144/2055144_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 203,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2055144/2055144_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 204,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2055144/2055144_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 205,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2055144/2055144_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 206,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2206622/2206622_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 207,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2206622/2206622_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 208,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2206622/2206622_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 209,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2206622/2206622_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 210,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 211,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 212,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 213,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 214,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2145869/2145869_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 215,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2145869/2145869_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 216,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2145869/2145869_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 217,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2145869/2145869_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 218,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2835038/2835038_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 219,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2835038/2835038_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 220,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2835038/2835038_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 221,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2835038/2835038_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 222,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2136518/2136518_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 223,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2136518/2136518_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 224,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2136518/2136518_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 225,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2136518/2136518_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 226,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/808935/808935_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 227,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/808935/808935_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 228,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/808935/808935_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 229,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/808935/808935_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 230,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3125132/3125132_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 231,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3125132/3125132_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 232,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3125132/3125132_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 233,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3125132/3125132_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 234,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3057017/3057017_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 235,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3057017/3057017_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 236,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3057017/3057017_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 237,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3057017/3057017_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 238,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2511359/2511359_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 239,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2511359/2511359_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 240,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2511359/2511359_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 241,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2511359/2511359_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 242,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1792640/1792640_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 243,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1792640/1792640_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 244,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1792640/1792640_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 245,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1792640/1792640_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 246,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2674744/2674744_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 247,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2674744/2674744_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 248,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2674744/2674744_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 249,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2674744/2674744_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 250,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051411/2051411_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 251,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051411/2051411_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 252,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051411/2051411_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 253,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051411/2051411_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 254,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2917442/2917442_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 255,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2917442/2917442_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 256,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2917442/2917442_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 257,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2917442/2917442_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 258,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2255891/2255891_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 259,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2255891/2255891_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 260,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2255891/2255891_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 261,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2255891/2255891_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 262,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2087866/2087866_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 263,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2087866/2087866_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 264,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2087866/2087866_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 265,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2087866/2087866_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 266,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2936832/2936832_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 267,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2936832/2936832_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 268,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2936832/2936832_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 269,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2936832/2936832_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 270,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1909640/1909640_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 271,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1909640/1909640_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 272,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1909640/1909640_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 273,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1957932/1957932_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 274,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1957932/1957932_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 275,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1957932/1957932_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 276,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1957932/1957932_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 277,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2545167/2545167_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 278,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2545167/2545167_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 279,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2545167/2545167_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 280,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3232584/3232584_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 281,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3232584/3232584_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 282,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3232584/3232584_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 283,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3232584/3232584_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 284,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2064504/2064504_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 285,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2064504/2064504_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 286,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2064504/2064504_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 287,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2064504/2064504_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 288,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1242789/1242789_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 289,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1242789/1242789_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 290,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1242789/1242789_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 291,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1242789/1242789_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 292,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/651789/651789_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 293,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/651789/651789_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 294,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/651789/651789_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 295,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2404206/2404206_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 296,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2404206/2404206_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 297,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2404206/2404206_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 298,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2404206/2404206_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 299,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1100120/1100120_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 300,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1100120/1100120_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 301,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1100120/1100120_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 302,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1100120/1100120_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 303,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1184532/1184532_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 304,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1184532/1184532_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 305,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1184532/1184532_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 306,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1184532/1184532_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 307,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2803895/2803895_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 308,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2803895/2803895_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 309,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2803895/2803895_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 310,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2803895/2803895_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 311,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1326521/1326521_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 312,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1326521/1326521_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 313,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1326521/1326521_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 314,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1326521/1326521_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 315,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1908121/1908121_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 316,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1908121/1908121_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 317,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1908121/1908121_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 318,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1908121/1908121_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 319,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2199443/2199443_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 320,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2199443/2199443_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 321,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2199443/2199443_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 322,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2199443/2199443_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 323,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2438957/2438957_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 324,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2438957/2438957_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 325,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2438957/2438957_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 326,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2438957/2438957_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 327,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1952345/1952345_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 328,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1952345/1952345_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 329,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1952345/1952345_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 330,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1952345/1952345_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 331,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2533900/2533900_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 332,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2533900/2533900_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 333,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2533900/2533900_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 334,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2533900/2533900_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 335,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1443083/1443083_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 336,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1443083/1443083_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 337,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1443083/1443083_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 338,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1443083/1443083_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 339,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2561276/2561276_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 340,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2561276/2561276_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 341,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2561276/2561276_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 342,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2561276/2561276_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 343,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2521874/2521874_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 344,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2521874/2521874_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 345,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2521874/2521874_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 346,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2521874/2521874_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 347,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2937634/2937634_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 348,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2937634/2937634_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 349,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2937634/2937634_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 350,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2937634/2937634_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 351,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2651403/2651403_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 352,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2651403/2651403_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 353,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2651403/2651403_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 354,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2651403/2651403_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 355,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2184441/2184441_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 356,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2184441/2184441_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 357,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2184441/2184441_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 358,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1974254/1974254_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 359,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1974254/1974254_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 360,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1974254/1974254_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 361,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1974254/1974254_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 362,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2973186/2973186_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 363,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2973186/2973186_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 364,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2973186/2973186_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 365,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2973186/2973186_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 366,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1967480/1967480_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 367,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1967480/1967480_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 368,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1967480/1967480_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 369,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1967480/1967480_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 370,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/251020/251020_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 371,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/251020/251020_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 372,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/251020/251020_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 373,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/251020/251020_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 374,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1931553/1931553_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 375,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1931553/1931553_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 376,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1931553/1931553_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 377,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1931553/1931553_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 378,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2841389/2841389_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 379,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2841389/2841389_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 380,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2841389/2841389_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 381,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2841389/2841389_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 382,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051052/2051052_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 383,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051052/2051052_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 384,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051052/2051052_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 385,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2051052/2051052_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 386,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2034571/2034571_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 387,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2034571/2034571_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 388,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2034571/2034571_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 389,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2034571/2034571_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 390,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1989160/1989160_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 391,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1989160/1989160_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 392,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1989160/1989160_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 393,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1989160/1989160_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 394,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2860947/2860947_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 395,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2860947/2860947_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 396,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2860947/2860947_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 397,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2860947/2860947_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 398,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2188107/2188107_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 399,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2188107/2188107_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 400,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2188107/2188107_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 401,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2188107/2188107_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 402,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1901227/1901227_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 403,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1901227/1901227_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 404,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1901227/1901227_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 405,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1901227/1901227_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 406,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3137904/3137904_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 407,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3137904/3137904_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 408,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3137904/3137904_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 409,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3137904/3137904_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 410,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3238199/3238199_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 411,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3238199/3238199_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 412,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3238199/3238199_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 413,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/3238199/3238199_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 414,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1778843/1778843_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 415,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1778843/1778843_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 416,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1778843/1778843_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 417,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1778843/1778843_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 418,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2635208/2635208_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 419,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2635208/2635208_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    },
+    {
+        "id": 420,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2635208/2635208_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T2"
+    },
+    {
+        "id": 421,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/2635208/2635208_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 422,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1068540/1068540_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 423,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1068540/1068540_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 424,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1068540/1068540_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    },
+    {
+        "id": 425,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1068540/1068540_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "T1"
+    }
+]

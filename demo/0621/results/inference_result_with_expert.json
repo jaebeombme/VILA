@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "CE"
+    },
+    {
+        "id": 2,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 3,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 4,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 5,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "Non-enhanced"
+    },
+    {
+        "id": 6,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 7,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 8,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 9,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 10,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 11,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 12,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "Non-enhanced"
+    },
+    {
+        "id": 13,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 14,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "contrast-enhanced"
+    },
+    {
+        "id": 15,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 16,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 17,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 18,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 19,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 20,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "Non-enhanced"
+    },
+    {
+        "id": 21,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 22,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 23,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "contrast-enhanced (CE)."
+    },
+    {
+        "id": 24,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 25,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 26,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 27,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "contrast-enhanced (CE)."
+    },
+    {
+        "id": 28,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 29,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 30,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 31,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 32,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "CE"
+    },
+    {
+        "id": 33,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 34,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "Non-enhanced"
+    },
+    {
+        "id": 35,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 36,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 37,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "contrast-enhanced (BRATS)."
+    },
+    {
+        "id": 38,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "BRATS"
+    },
+    {
+        "id": 39,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 40,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    }
+]

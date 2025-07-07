@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 2,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 3,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 4,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/824746/824746_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 5,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 6,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 7,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 8,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1927556/1927556_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 9,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 10,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 11,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 12,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1894874/1894874_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 13,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 14,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 15,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 16,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1371892/1371892_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 17,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 18,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 19,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 20,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/874236/874236_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 21,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 22,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 23,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 24,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1674455/1674455_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 25,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 26,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 27,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 28,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1012729/1012729_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 29,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 30,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 31,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 32,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/278412/278412_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 33,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 34,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 35,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 36,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/1473946/1473946_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 37,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1GD",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1GD_stripped.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 38,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T1_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 39,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_T2_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    },
+    {
+        "id": 40,
+        "USER": "Which MRI sequence is used here: T1, T2, FLAIR, or contrast-enhanced?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/tmp/486293/486293_FLAIR_stripped_bet.nii.gz"
+        ],
+        "VILA-M3": "FLAIR"
+    }
+]

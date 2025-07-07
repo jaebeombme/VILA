@@ -1,0 +1,2306 @@
+[
+    {
+        "id": 1,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_029/BraTS20_Validation_029_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 2,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_029/BraTS20_Validation_029_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 3,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_029/BraTS20_Validation_029_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 4,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_029/BraTS20_Validation_029_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 5,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_023/BraTS20_Validation_023_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 6,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_023/BraTS20_Validation_023_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 7,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_023/BraTS20_Validation_023_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 8,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_023/BraTS20_Validation_023_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 9,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_011/BraTS20_Validation_011_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 10,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_011/BraTS20_Validation_011_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 11,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_011/BraTS20_Validation_011_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 12,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_011/BraTS20_Validation_011_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 13,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_030/BraTS20_Validation_030_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 14,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_030/BraTS20_Validation_030_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 15,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_030/BraTS20_Validation_030_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 16,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_030/BraTS20_Validation_030_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 17,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_047/BraTS20_Validation_047_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 18,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_047/BraTS20_Validation_047_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 19,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_047/BraTS20_Validation_047_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 20,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_047/BraTS20_Validation_047_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 21,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_002/BraTS20_Validation_002_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 22,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_002/BraTS20_Validation_002_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 23,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_002/BraTS20_Validation_002_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 24,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_002/BraTS20_Validation_002_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 25,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_008/BraTS20_Validation_008_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 26,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_008/BraTS20_Validation_008_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 27,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_008/BraTS20_Validation_008_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 28,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_008/BraTS20_Validation_008_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 29,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_005/BraTS20_Validation_005_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 30,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_005/BraTS20_Validation_005_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 31,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_005/BraTS20_Validation_005_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 32,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_005/BraTS20_Validation_005_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 33,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_040/BraTS20_Validation_040_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 34,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_040/BraTS20_Validation_040_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 35,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_040/BraTS20_Validation_040_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 36,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_040/BraTS20_Validation_040_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 37,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_037/BraTS20_Validation_037_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 38,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_037/BraTS20_Validation_037_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 39,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_037/BraTS20_Validation_037_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 40,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_037/BraTS20_Validation_037_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 41,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_016/BraTS20_Validation_016_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 42,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_016/BraTS20_Validation_016_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 43,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_016/BraTS20_Validation_016_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 44,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_016/BraTS20_Validation_016_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 45,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_024/BraTS20_Validation_024_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 46,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_024/BraTS20_Validation_024_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 47,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_024/BraTS20_Validation_024_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 48,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_024/BraTS20_Validation_024_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 49,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_020/BraTS20_Validation_020_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 50,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_020/BraTS20_Validation_020_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 51,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_020/BraTS20_Validation_020_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 52,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_020/BraTS20_Validation_020_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 53,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_012/BraTS20_Validation_012_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 54,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_012/BraTS20_Validation_012_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 55,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_012/BraTS20_Validation_012_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 56,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_012/BraTS20_Validation_012_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 57,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_018/BraTS20_Validation_018_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 58,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_018/BraTS20_Validation_018_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 59,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_018/BraTS20_Validation_018_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 60,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_018/BraTS20_Validation_018_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 61,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_039/BraTS20_Validation_039_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 62,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_039/BraTS20_Validation_039_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 63,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_039/BraTS20_Validation_039_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 64,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_039/BraTS20_Validation_039_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 65,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_044/BraTS20_Validation_044_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 66,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_044/BraTS20_Validation_044_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 67,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_044/BraTS20_Validation_044_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 68,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_044/BraTS20_Validation_044_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 69,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_033/BraTS20_Validation_033_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 70,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_033/BraTS20_Validation_033_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 71,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_033/BraTS20_Validation_033_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 72,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_033/BraTS20_Validation_033_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 73,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_001/BraTS20_Validation_001_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 74,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_001/BraTS20_Validation_001_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 75,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_001/BraTS20_Validation_001_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 76,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_001/BraTS20_Validation_001_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 77,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_006/BraTS20_Validation_006_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 78,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_006/BraTS20_Validation_006_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 79,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_006/BraTS20_Validation_006_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 80,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_006/BraTS20_Validation_006_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 81,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_034/BraTS20_Validation_034_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 82,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_034/BraTS20_Validation_034_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 83,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_034/BraTS20_Validation_034_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 84,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_034/BraTS20_Validation_034_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 85,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_043/BraTS20_Validation_043_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 86,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_043/BraTS20_Validation_043_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 87,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_043/BraTS20_Validation_043_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 88,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_043/BraTS20_Validation_043_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 89,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_015/BraTS20_Validation_015_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 90,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_015/BraTS20_Validation_015_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 91,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_015/BraTS20_Validation_015_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 92,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_015/BraTS20_Validation_015_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 93,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_027/BraTS20_Validation_027_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 94,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_027/BraTS20_Validation_027_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 95,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_027/BraTS20_Validation_027_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 96,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_027/BraTS20_Validation_027_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 97,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_017/BraTS20_Validation_017_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 98,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_017/BraTS20_Validation_017_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 99,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_017/BraTS20_Validation_017_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 100,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_017/BraTS20_Validation_017_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 101,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_025/BraTS20_Validation_025_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 102,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_025/BraTS20_Validation_025_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 103,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_025/BraTS20_Validation_025_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 104,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_025/BraTS20_Validation_025_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 105,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_004/BraTS20_Validation_004_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 106,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_004/BraTS20_Validation_004_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 107,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_004/BraTS20_Validation_004_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 108,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_004/BraTS20_Validation_004_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 109,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_036/BraTS20_Validation_036_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 110,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_036/BraTS20_Validation_036_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 111,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_036/BraTS20_Validation_036_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 112,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_036/BraTS20_Validation_036_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 113,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_041/BraTS20_Validation_041_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 114,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_041/BraTS20_Validation_041_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 115,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_041/BraTS20_Validation_041_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 116,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_041/BraTS20_Validation_041_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 117,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_046/BraTS20_Validation_046_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 118,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_046/BraTS20_Validation_046_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 119,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_046/BraTS20_Validation_046_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 120,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_046/BraTS20_Validation_046_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 121,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_031/BraTS20_Validation_031_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 122,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_031/BraTS20_Validation_031_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 123,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_031/BraTS20_Validation_031_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 124,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_031/BraTS20_Validation_031_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 125,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_009/BraTS20_Validation_009_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 126,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_009/BraTS20_Validation_009_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 127,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_009/BraTS20_Validation_009_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 128,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_009/BraTS20_Validation_009_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 129,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_003/BraTS20_Validation_003_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 130,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_003/BraTS20_Validation_003_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 131,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_003/BraTS20_Validation_003_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 132,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_003/BraTS20_Validation_003_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 133,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_022/BraTS20_Validation_022_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 134,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_022/BraTS20_Validation_022_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 135,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_022/BraTS20_Validation_022_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 136,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_022/BraTS20_Validation_022_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 137,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_028/BraTS20_Validation_028_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 138,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_028/BraTS20_Validation_028_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 139,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_028/BraTS20_Validation_028_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 140,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_028/BraTS20_Validation_028_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 141,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_010/BraTS20_Validation_010_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 142,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_010/BraTS20_Validation_010_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 143,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_010/BraTS20_Validation_010_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 144,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_010/BraTS20_Validation_010_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 145,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_014/BraTS20_Validation_014_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 146,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_014/BraTS20_Validation_014_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 147,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_014/BraTS20_Validation_014_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 148,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_014/BraTS20_Validation_014_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 149,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_026/BraTS20_Validation_026_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 150,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_026/BraTS20_Validation_026_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 151,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_026/BraTS20_Validation_026_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 152,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_026/BraTS20_Validation_026_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 153,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_007/BraTS20_Validation_007_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 154,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_007/BraTS20_Validation_007_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 155,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_007/BraTS20_Validation_007_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 156,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_007/BraTS20_Validation_007_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 157,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_042/BraTS20_Validation_042_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 158,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_042/BraTS20_Validation_042_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 159,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_042/BraTS20_Validation_042_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 160,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_042/BraTS20_Validation_042_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 161,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_035/BraTS20_Validation_035_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 162,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_035/BraTS20_Validation_035_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 163,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_035/BraTS20_Validation_035_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 164,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_035/BraTS20_Validation_035_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 165,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_048/BraTS20_Validation_048_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 166,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_048/BraTS20_Validation_048_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 167,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_048/BraTS20_Validation_048_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 168,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_048/BraTS20_Validation_048_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 169,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_032/BraTS20_Validation_032_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 170,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_032/BraTS20_Validation_032_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 171,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_032/BraTS20_Validation_032_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 172,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_032/BraTS20_Validation_032_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 173,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_045/BraTS20_Validation_045_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 174,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_045/BraTS20_Validation_045_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 175,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_045/BraTS20_Validation_045_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 176,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_045/BraTS20_Validation_045_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 177,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_038/BraTS20_Validation_038_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 178,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_038/BraTS20_Validation_038_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 179,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_038/BraTS20_Validation_038_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 180,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_038/BraTS20_Validation_038_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 181,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_021/BraTS20_Validation_021_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 182,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_021/BraTS20_Validation_021_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 183,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_021/BraTS20_Validation_021_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 184,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_021/BraTS20_Validation_021_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 185,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_019/BraTS20_Validation_019_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    },
+    {
+        "id": 186,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_019/BraTS20_Validation_019_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 187,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_019/BraTS20_Validation_019_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 188,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_019/BraTS20_Validation_019_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 189,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_013/BraTS20_Validation_013_t1ce.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: contrast-enhanced (T1CE).\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1CE"
+    },
+    {
+        "id": 190,
+        "USER": "What mri sequence is this image?",
+        "GT": "T2",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_013/BraTS20_Validation_013_t2.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T2.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T2"
+    },
+    {
+        "id": 191,
+        "USER": "What mri sequence is this image?",
+        "GT": "FLAIR",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_013/BraTS20_Validation_013_flair.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: FLAIR.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "FLAIR"
+    },
+    {
+        "id": 192,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS2020/MICCAI_BraTS2020_ValidationData/BraTS20_Validation_013/BraTS20_Validation_013_t1.nii"
+        ],
+        "VILA-M3": "This looks like a MR Image. Let me first trigger <MPS()>.",
+        "Expert Response": "The predicted MRI sequence is: T1.\n",
+        "Expert Instruction": "Use this result to respond to this prompt:\nWhat mri sequence is this image?",
+        "VILA-M3 Final": "T1"
+    }
+]

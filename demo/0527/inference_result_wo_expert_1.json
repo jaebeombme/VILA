@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "USER": "What mri sequence is this image?",
+        "GT": "T1",
+        "image path": [
+            "/home/hufsaim/VLM/VLM/data/BraTS/MICCAI_BraTS_2018_Data_Training/HGG/Brats18_2013_2_1/Brats18_2013_2_1_t1.nii"
+        ],
+        "VILA-M3": "This looks like an MRI image sequence. Let me first trigger <BRATS()>."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab124/source.jpg",
+        "VILA-M3": "Atelectasis"
+    },
+    {
+        "id": 2,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab124/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 3,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab124/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 4,
+        "USER": "Which organ is abnormal, heart or lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab124/source.jpg",
+        "VILA-M3": "Heart"
+    },
+    {
+        "id": 5,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab130/source.jpg",
+        "VILA-M3": "Atelectasis, Nodule"
+    },
+    {
+        "id": 6,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab130/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 7,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab130/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 8,
+        "USER": "Does the lung look healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab130/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 9,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab147/source.jpg",
+        "VILA-M3": "Nodule"
+    },
+    {
+        "id": 10,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab147/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 11,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab147/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 12,
+        "USER": "Which organ is abnormal, heart or lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab147/source.jpg",
+        "VILA-M3": "Lung"
+    },
+    {
+        "id": 13,
+        "USER": "Is the lung healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab147/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 14,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab160/source.jpg",
+        "VILA-M3": "Nodule"
+    },
+    {
+        "id": 15,
+        "USER": "Does this image look normal?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab160/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 16,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab160/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 17,
+        "USER": "Which organ is abnormal, heart or lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab160/source.jpg",
+        "VILA-M3": "Heart"
+    },
+    {
+        "id": 18,
+        "USER": "Is the lung healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab160/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 19,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab169/source.jpg",
+        "VILA-M3": "Atelectasis"
+    },
+    {
+        "id": 20,
+        "USER": "Does this image look normal?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab169/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 21,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab169/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 22,
+        "USER": "Which organ is abnormal, heart or lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab169/source.jpg",
+        "VILA-M3": "Heart"
+    },
+    {
+        "id": 23,
+        "USER": "Is the lung healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab169/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 24,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab173/source.jpg",
+        "VILA-M3": "Atelectasis, Infiltration"
+    },
+    {
+        "id": 25,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab173/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 26,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab173/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 27,
+        "USER": "Which organ is abnormal, heart or lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab173/source.jpg",
+        "VILA-M3": "Lung"
+    },
+    {
+        "id": 28,
+        "USER": "Is the lung healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab173/source.jpg",
+        "VILA-M3": "No"
+    },
+    {
+        "id": 29,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab329/source.jpg",
+        "VILA-M3": "Atelectasis"
+    },
+    {
+        "id": 30,
+        "USER": "Does the lung look abnormal?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab329/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 31,
+        "USER": "What disease is/are shown on the right of lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab375/source.jpg",
+        "VILA-M3": "Atelectasis"
+    },
+    {
+        "id": 32,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab375/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 33,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab375/source.jpg",
+        "VILA-M3": "Right Lung, Left"
+    },
+    {
+        "id": 34,
+        "USER": "Where is the pneumonia in the lung?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab375/source.jpg",
+        "VILA-M3": "Right Lung"
+    },
+    {
+        "id": 35,
+        "USER": "Which side of lung is abnormal in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab375/source.jpg",
+        "VILA-M3": "Both"
+    },
+    {
+        "id": 36,
+        "USER": "What diseases are included in the picture?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab386/source.jpg",
+        "VILA-M3": "Atelectasis, Effusion"
+    },
+    {
+        "id": 37,
+        "USER": "Are there abnormalities in this image?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab386/source.jpg",
+        "VILA-M3": "Yes"
+    },
+    {
+        "id": 38,
+        "USER": "Where is/are the abnormality located?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab386/source.jpg",
+        "VILA-M3": "Left Lung, Right"
+    },
+    {
+        "id": 39,
+        "USER": "Where is the pleural effusion?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab386/source.jpg",
+        "VILA-M3": "Left Area"
+    },
+    {
+        "id": 40,
+        "USER": "Is the lung healthy?",
+        "image path": "/home/hufsaim/VLM/VLM/data/0527/xmlab386/source.jpg",
+        "VILA-M3": "No"
+    }
+]
